@@ -166,3 +166,6 @@ security_analysis_results/
 openai_campaign/
 openai_redteam_prompts.json
 temp.py
+# Class stuff and findings that are improper to publish
+*.pptx
+*campaign/
